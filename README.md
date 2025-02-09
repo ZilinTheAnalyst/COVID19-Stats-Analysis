@@ -1,5 +1,5 @@
 # COVID19-Stats-Analysis
-##Project Overview
+## Project Overview
 
 This project involves analysing an Excel dataset containing 85,172 records of COVID-19 statistics from the World Health Organization, including location data, case counts, vaccination details, and patient health information. The primary goal of this project is to demonstrate my analytical thought process—how I make sense of raw data, solve data process problems, extract meaningful insights, and derive conclusions from the available dataset.
 Objectives
